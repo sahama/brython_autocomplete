@@ -20,7 +20,7 @@ in index.html
 
 in brython.py
 ---
-```xml
+```python
 import browser
 
 # here paste brython_autocomplete content
